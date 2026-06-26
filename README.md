@@ -2,7 +2,7 @@
 
 # Olá, eu sou Luana Zenha 👋
 
-**Estudante de Engenharia de Software · Desenvolvedora Full Stack · Rio de Janeiro, Brasil**
+**Estudante de Engenharia de Software · Desenvolvedora Back End · Rio de Janeiro, Brasil**
 
 [![GitHub](https://img.shields.io/badge/GitHub-LuanaPZenha-181717?style=for-the-badge&logo=github)](https://github.com/LuanaPZenha)
 [![Email](https://img.shields.io/badge/Email-eng.luanazenha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.luanazenha@gmail.com)
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Desenvolvo soluções **full stack** com foco em arquitetura limpa, microsserviços e experiências digitais que resolvem problemas reais — do turismo local à gestão de clínicas veterinárias.
+Desenvolvo soluções **back end** com foco em arquitetura limpa, microsserviços e APIs que resolvem problemas reais — do turismo local à gestão de clínicas veterinárias.
 
 Tenho experiência prática com **React**, **React Native / Expo**, **Python (FastAPI & Django)**, **Docker**, **JWT**, **TDD/BDD** e deploy em produção. Gosto de transformar requisitos acadêmicos e de produto em sistemas bem documentados, testáveis e prontos para escalar.
 
