@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Desenvolvo soluções **back end** com foco em arquitetura limpa, microsserviços e APIs que resolvem problemas reais — do turismo local à gestão de clínicas veterinárias.
+Desenvolvo soluções **back end** com foco em arquitetura limpa, microsserviços e APIs que resolvem problemas reais.
 
 Tenho experiência prática com **React**, **React Native / Expo**, **Python (FastAPI & Django)**, **Docker**, **JWT**, **TDD/BDD** e deploy em produção. Gosto de transformar requisitos acadêmicos e de produto em sistemas bem documentados, testáveis e prontos para escalar.
 
@@ -77,7 +77,7 @@ Tenho experiência prática com **React**, **React Native / Expo**, **Python (Fa
 
 ## Vamos conversar?
 
-Estou aberta a colaborações, estágios e projetos que unam engenharia de software com impacto real.
+Estou aberta a colaborações, estágios e projetos.
 
 📧 **eng.luanazenha@gmail.com**  
 🐙 **github.com/LuanaPZenha**
