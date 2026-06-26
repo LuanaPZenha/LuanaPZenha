@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Luana Zenha 👋
+# Olá, eu sou Luana Zenha 
 
 **Estudante de Engenharia de Software · Desenvolvedora Back End · Rio de Janeiro, Brasil**
 
